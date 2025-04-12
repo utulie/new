@@ -11,7 +11,7 @@ I'm a third year undergraduate student from [School of Mathematical Sciences](ht
 
 I am very fortunate to be advised by [Prof. Lin Liu](https://linliu-stats.github.io/) and [Prof. Yu Guang Wang](https://yuguangwang.github.io/) from [Institute of Natural Sciences](https://ins.sjtu.edu.cn/), [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/). 
 
-You can find my CV here: [Hao Chen's Curriculum Vitae](https://jbox.sjtu.edu.cn/l/f1hUJV).
+You can find my CV here: [Hao Chen's Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
-Contact: [Email](mailto:chen_hao1@sjtu.edu.cn) / [Github](https://github.com/utulie).
+Contact: [Email](mailto:chen_hao1@sjtu.edu.cn) / [Wechat](../images/wechat.jpg) / [Github](https://github.com/utulie).
 
