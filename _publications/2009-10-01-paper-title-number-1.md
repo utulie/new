@@ -1,20 +1,21 @@
 ---
-title: "Score-matching-based Structure Learning for Temporal Data on Networks"
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'aaaa'
-date: 2009-10-01
-
-paperurl: 'https://arxiv.org/abs/2412.07469'
-citation: '@misc{chen2024scorematchingbasedstructurelearningtemporal,
-      title={Score-matching-based Structure Learning for Temporal Data on Networks}, 
-      author={Hao Chen and Kai Yi and Lin Liu and Yu Guang Wang},
-      year={2024},
-      eprint={2412.07469},
-      archivePrefix={arXiv},
-      primaryClass={stat.ML},
-      url={https://arxiv.org/abs/2412.07469}, 
+permalink: /publication/2010-10-01-paper-title-number-2
+excerpt: 'This paper is about an theoretical analysis of expressivity for graph convolutional networks.'
+venue: 'Neural Networks'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S0893608023005191'
+citation: '@article{chenBounds,
+title = {Lower and upper bounds for numbers of linear regions of graph convolutional networks},
+journal = {Neural Networks},
+volume = {168},
+pages = {394-404},
+year = {2023},
+issn = {0893-6080},
+doi = {https://doi.org/10.1016/j.neunet.2023.09.025},
+url = {https://www.sciencedirect.com/science/article/pii/S0893608023005191},
+author = {Hao Chen and Yu Guang Wang and Huan Xiong},
 }'
 ---
+
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
