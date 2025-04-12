@@ -1,10 +1,8 @@
 ---
-title: "Paper Title Number 2"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
+excerpt: 'This paper is about an theoretical analysis of expressivity for graph convolutional networks.'
 venue: 'Neural Networks'
 paperurl: 'https://www.sciencedirect.com/science/article/pii/S0893608023005191'
 citation: '@article{chenBounds,
