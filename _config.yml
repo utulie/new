@@ -80,7 +80,9 @@ publication_category:
   books:
     title: 'Books'
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'working papers'    
+  journal:
+    title: 'Journal papers'
   conferences:
     title: 'Conference Papers'
 
