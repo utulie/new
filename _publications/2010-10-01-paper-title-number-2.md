@@ -3,7 +3,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
 paperurl: 'https://arxiv.org/abs/2412.07469'
-citation: ''
+recomended citation: 'Chen, H., Yi, K., Liu, L., & Wang, Y. (2024). Score-matching-based Structure Learning for Temporal Data on Networks. ArXiv, abs/2412.07469.'
 ---
 
 <center>Abstract</center>
