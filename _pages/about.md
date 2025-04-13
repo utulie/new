@@ -14,6 +14,7 @@ I am very fortunate to be advised by [Prof. Lin Liu](https://linliu-stats.github
 You can find my CV here: [Hao Chen's Curriculum Vitae](../assets/my_cv.pdf).
 
 Contact: [Email](mailto:chen_hao1@sjtu.edu.cn) / [Github](https://github.com/utulie).
+
 # Publications
 ## Journal papers
 [Lower and upper bounds for numbers of linear regions of graph convolutional networks.](https://www.sciencedirect.com/science/article/pii/S0893608023005191) Hao Chen, Yu Guang Wang, and Huan Xiong. *Neural Networks* 168 (2023): 394-404.
