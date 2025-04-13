@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "Shanghai PRC"
 site_theme               : "default"
-title                    : "Page"
+title                    : "Hao Chen's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Hao Chen"
 description              : &description "personal description"
